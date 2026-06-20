@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TestFullScreenMat 4
-  m_Shader: {fileID: -6465566751694194690, guid: c54a207d6b3076d4f8da7253ebcb5218, type: 3}
+  m_Name: TestFullScreenMat 5
+  m_Shader: {fileID: -6465566751694194690, guid: 708a2d173f87e954fab1aa8267ba5772, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -88,6 +88,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
+    - _CellDensity: 5
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -101,9 +102,9 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MaxRange: 1
+    - _MaxRange: 0.729
     - _Metallic: 0
-    - _MinEdge: 0.285
+    - _MinEdge: 0.275
     - _NoiseOffset: 1.8
     - _OcclusionStrength: 1
     - _Parallax: 0.005
