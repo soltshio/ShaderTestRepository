@@ -103,7 +103,7 @@ Material:
     - _GlossyReflections: 0
     - _MaxRange: 1
     - _Metallic: 0
-    - _MinEdge: 0.285
+    - _MinEdge: 0.176
     - _NoiseOffset: 1.8
     - _OcclusionStrength: 1
     - _Parallax: 0.005
